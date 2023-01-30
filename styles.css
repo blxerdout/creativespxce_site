@@ -1,4 +1,31 @@
-.Website-Header {
-    color: red;
-    background-color: black;
+.header-info {
+    background-color:black;
+    color:white;
+    font-family:monospace;
+    text-align: center;
+    font-size: xx-large;
+
 }
+
+img {
+    border-radius:410px;
+    width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+#intro {
+    text-align:right;
+    font-size: x-large;
+    text-align: center;
+    margin-left: 200px;
+    margin-right:200px;
+    font-family: fantasy;
+    
+}
+
