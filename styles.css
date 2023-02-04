@@ -4,6 +4,8 @@
     font-family:monospace;
     text-align: center;
     font-size: xx-large;
+    border: 2px solid rgb(185, 165, 165);
+    margin: 20px;
 
 }
 
@@ -17,8 +19,7 @@ img {
 
 }
 
-
-
+/*This section is for the  Intro Statment*/
 #intro {
     text-align:right;
     font-size: x-large;
@@ -31,5 +32,11 @@ img {
 
 #music {
     width: 100%;
-    color: black; 
+    
+     
 }
+
+ .highlight {
+    background-color: yellow;
+    color: red;
+ }
