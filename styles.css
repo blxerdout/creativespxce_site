@@ -40,3 +40,12 @@ img {
     background-color: yellow;
     color: red;
  }
+
+ .album_Page {
+    background-color: black;
+    color: blanchedalmond;
+    display: table-header-group;
+    position:absolute; left:80px; top:350px; right:100px;
+    
+    
+ }
