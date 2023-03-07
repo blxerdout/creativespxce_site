@@ -42,19 +42,30 @@ img {
  }
 
  .album_Page {
-    background-color: black;
-    color: blanchedalmond;
-    display: table-header-group;
-    position:absolute; left:80px; top:350px; right:100px;
-    
-    
+    background-color: white;
+    color: white;
+    display:table-header-group;
+    position:absolute; left:80px; top:absolute; right:100px
+
+
+
+
+
  }
+    
+
+    
+    
 
  .album-headerpage {
     background-color: black;
     color: blanchedalmond;
     display: table-header-group;
-    position:absolute; left:80px; top:absolute p x; right:100px
+    
     
 
+ }
+
+ .bandcamp-Em {
+    margin: 50px;
  }
