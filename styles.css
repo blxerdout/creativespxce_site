@@ -6,6 +6,7 @@
     font-size: xx-large;
     border: 2px solid rgb(185, 165, 165);
     margin: 20px;
+    cursor: crosshair;
 
 }
 
@@ -68,4 +69,10 @@ img {
 
  .bandcamp-Em {
     margin: 50px;
+ }
+
+ .signup-form {
+    color:blue;
+    margin: 10px;
+    display: table-row;
  }
